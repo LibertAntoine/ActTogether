@@ -51,5 +51,5 @@ Realized in May 2020.
 
 
 ## Contributors
-* Antoine Libert – Programmation, 3D modeling, video captation.
-* Flora Mallet – 2D Illustrations.
+* [**Antoine Libert**](https://github.com/LibertAntoine) – Programmation, 3D modeling, video captation.
+* [**Flora Mallet**](https://github.com/floraMlt) – 2D Illustrations.
