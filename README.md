@@ -35,7 +35,7 @@ This mock-up was produced with the P5 library. This project is an initiative res
 
 Realized in May 2020.
 
-[**See the mockup online**](http://interactivity.ingenus.ovh/)
+[**See the mockup online**](https://acttogether.antoine-libert.com/)
 
 <p align="center">
 <img src="doc/readme-img/ActTogether2.png?raw=true" width="45%" alt="Screenshot">
